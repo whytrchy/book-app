@@ -11,6 +11,7 @@ services:
 
 env:
   global:
+  - CC_TEST_REPORTER_ID=eef2e77692bec2d8c79369d2a7906261ab7c6141aeb1b61114f06c76ef41ecd5
   - NODE_ENV=test
 
 before_script:
