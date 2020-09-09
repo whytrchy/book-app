@@ -5,3 +5,5 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/dd01b6931f1c0e0f6545/maintainability)](https://codeclimate.com/github/wahwihwuh/book-app/maintainability)
 
 ![Travis (.com) branch](https://img.shields.io/travis/com/wahwihwuh/book-app/master?style=plastic)
+
+https://img.shields.io/github/last-commit/wahwihwuh/book-app/master?style=plastic
