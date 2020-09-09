@@ -7,3 +7,5 @@
 ![Travis (.com) branch](https://img.shields.io/travis/com/wahwihwuh/book-app/master?style=plastic)
 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/wahwihwuh/book-app/master?style=plastic)
+
+[![Dependabot](https://badgen.net/badge/Dependabot/enabled/green?icon=dependabot)](https://dependabot.com/)
