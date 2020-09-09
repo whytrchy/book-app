@@ -6,4 +6,4 @@
 
 ![Travis (.com) branch](https://img.shields.io/travis/com/wahwihwuh/book-app/master?style=plastic)
 
-https://img.shields.io/github/last-commit/wahwihwuh/book-app/master?style=plastic
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/wahwihwuh/book-app/master?style=plastic)
